@@ -1,5 +1,6 @@
-# genetic-python
+# Description
 Programs created for students of biotechnology engineering.
+* ***Author:*** Paloma Zepeda Garrido
 
 # Python
 * aminoacid classification
